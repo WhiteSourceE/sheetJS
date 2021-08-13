@@ -1,4 +1,7 @@
 node_modules
+tests
+test_files
+dist
 package-lock.json
 *.tgz
 _book/
